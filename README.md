@@ -1,10 +1,10 @@
 # Average price of each car brand manufactured in 2015, 2016 and 2017 years
 
-We used 2 data's stored both in:
+We used 2 data's stored both in CSV:
 ### 1) https://www.kaggle.com/CooperUnion/cardataset 
 ### 2) https://www.kaggle.com/jpayne/852k-used-car-listings#tc20171021.csv
 
-We used Python (jupyter notebook) - for cleaning and SQL (pgAdmin 4) - to store and provide final result
+We used Python (jupyter notebook) - for cleaning and SQL (pgAdmin 4) - to store and provide final result.
 
 ## Our goal was ETL - EXTRACT, TRANSFORM and LOAD!
 
