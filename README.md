@@ -4,7 +4,7 @@ We used 2 data's stored both in CSV:
 ### 1) https://www.kaggle.com/CooperUnion/cardataset 
 ### 2) https://www.kaggle.com/jpayne/852k-used-car-listings#tc20171021.csv
 
-We used Python (jupyter notebook) - for cleaning and SQL (pgAdmin 4) - to store and provide final result.
+We used Pandas for extracting and transforming and SQL (pgAdmin 4) - to load, store and provide final result.
 
 ## Our goal was ETL - EXTRACT, TRANSFORM and LOAD!
 
